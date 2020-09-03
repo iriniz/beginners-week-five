@@ -1,4 +1,4 @@
-body{
+.first-main{
     text-align: center;
 }
 
@@ -6,8 +6,41 @@ body{
     background-color: black;
 }
 
-.link{
+/* unvisited link */
+a:link {
+    color: yellow;
+  }
+  
+  /* visited link */
+  a:visited {
     color: white;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(249, 250, 184);
+  }
+  
+.Black{
+    color: black;
 }
+
+.lives{
+    color: yellow;
+}
+
+.matter{
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
 
 
