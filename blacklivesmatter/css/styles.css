@@ -13,7 +13,7 @@ a:link {
   
   /* visited link */
   a:visited {
-    color: white;
+    color: rgb(252, 255, 74);
   }
   
   /* mouse over link */
@@ -51,6 +51,15 @@ a:link {
     text-align: right;
   }
 
+  .center{
+    text-align: center;
+    color: white;
+  }
+
+  .info{
+    text-align: justify;
+  }
+  
 
 
 
