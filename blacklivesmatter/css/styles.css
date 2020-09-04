@@ -13,7 +13,7 @@ a:link {
   
   /* visited link */
   a:visited {
-    color: rgb(252, 255, 74);
+    color: rgb(255, 230, 0);
   }
   
   /* mouse over link */
@@ -64,7 +64,21 @@ a:link {
     text-align: center;
   }
 
+.contain{
+  background-color: yellow;
+  font-family: Georgia;
+  text-align: center;
+}
 
+.blackbg{
+  background-color: black;
+}
+
+.colorchange a, .colorchange{
+  color: black !important;
+}
+
+/*margin-top margin-bottom*/
 
 
 
